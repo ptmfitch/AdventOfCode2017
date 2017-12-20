@@ -281,21 +281,21 @@
 [debug] == resolving dependencies adventofcode#adventofcode$sources;0.1->org.scala-lang#scala-compiler;2.12.4 [scala-tool->master]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
+[debug] 	[NOT REQUIRED] jline#jline;2.14.5!jline.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.4!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.4!scala-compiler.jar(src)
-[debug] 	[NOT REQUIRED] jline#jline;2.14.5!jline.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.4!scala-library.jar(src)
-[debug] :: resolution report :: resolve 21ms :: artifacts dl 3ms
-[debug] 	report for adventofcode#adventofcode$sources;0.1 compile produced in /home/peterf/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-compile.xml
-[debug] 	report for adventofcode#adventofcode$sources;0.1 runtime produced in /home/peterf/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-runtime.xml
-[debug] 	report for adventofcode#adventofcode$sources;0.1 test produced in /home/peterf/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-test.xml
-[debug] 	report for adventofcode#adventofcode$sources;0.1 provided produced in /home/peterf/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-provided.xml
-[debug] 	report for adventofcode#adventofcode$sources;0.1 optional produced in /home/peterf/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-optional.xml
-[debug] 	report for adventofcode#adventofcode$sources;0.1 compile-internal produced in /home/peterf/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-compile-internal.xml
-[debug] 	report for adventofcode#adventofcode$sources;0.1 runtime-internal produced in /home/peterf/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-runtime-internal.xml
-[debug] 	report for adventofcode#adventofcode$sources;0.1 test-internal produced in /home/peterf/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-test-internal.xml
-[debug] 	report for adventofcode#adventofcode$sources;0.1 plugin produced in /home/peterf/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-plugin.xml
-[debug] 	report for adventofcode#adventofcode$sources;0.1 pom produced in /home/peterf/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-pom.xml
-[debug] 	report for adventofcode#adventofcode$sources;0.1 scala-tool produced in /home/peterf/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-scala-tool.xml
-[debug] 	resolve done (21ms resolve - 3ms download)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.4!scala-compiler.jar(src)
+[debug] :: resolution report :: resolve 34ms :: artifacts dl 4ms
+[debug] 	report for adventofcode#adventofcode$sources;0.1 compile produced in /Users/peterfitch/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-compile.xml
+[debug] 	report for adventofcode#adventofcode$sources;0.1 runtime produced in /Users/peterfitch/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-runtime.xml
+[debug] 	report for adventofcode#adventofcode$sources;0.1 test produced in /Users/peterfitch/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-test.xml
+[debug] 	report for adventofcode#adventofcode$sources;0.1 provided produced in /Users/peterfitch/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-provided.xml
+[debug] 	report for adventofcode#adventofcode$sources;0.1 optional produced in /Users/peterfitch/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-optional.xml
+[debug] 	report for adventofcode#adventofcode$sources;0.1 compile-internal produced in /Users/peterfitch/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-compile-internal.xml
+[debug] 	report for adventofcode#adventofcode$sources;0.1 runtime-internal produced in /Users/peterfitch/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-runtime-internal.xml
+[debug] 	report for adventofcode#adventofcode$sources;0.1 test-internal produced in /Users/peterfitch/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-test-internal.xml
+[debug] 	report for adventofcode#adventofcode$sources;0.1 plugin produced in /Users/peterfitch/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-plugin.xml
+[debug] 	report for adventofcode#adventofcode$sources;0.1 pom produced in /Users/peterfitch/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-pom.xml
+[debug] 	report for adventofcode#adventofcode$sources;0.1 scala-tool produced in /Users/peterfitch/IdeaProjects/AdventOfCode2017/target/scala-2.12/resolution-cache/reports/adventofcode-adventofcode$sources-scala-tool.xml
+[debug] 	resolve done (34ms resolve - 4ms download)
